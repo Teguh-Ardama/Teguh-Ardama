@@ -25,7 +25,6 @@ Currently working as Software Quality Assurance, Having knowledge to create web 
 ![UIPath Studio](https://img.shields.io/badge/-uipath-181717?style=for-the-badge&logo=uipath)
 ![Katalon Studio](https://img.shields.io/badge/-katalonstudio-181717?style=for-the-badge&logo=katalon)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Microsoft SQL](https://img.shields.io/badge/-mssql-181717?style=for-the-badge&logo=mssql)
 ![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
